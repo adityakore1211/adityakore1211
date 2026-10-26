@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adityakore1211
 - 👀 I’m interested in web design and application development
 - 🌱 I’m recentntly completed a course in full-stack development, building both front-end and back-end skills using technologies like HTML, CSS, JavaScript,Bootstrap, React,Angular, Node.js,Java,MongoDb,Postman,Insomnia,MySQL,OracleSQL,No-SQL.
-- 💞️ I’m looking to collaborate on web design, user-friendly front-end development, and scalable back-end solutions.
+- 👀 I’m looking to collaborate on web design, user-friendly front-end development, and scalable back-end solutions.
 - 📫 How to reach me adityakore7375@gmail.com
 
 
